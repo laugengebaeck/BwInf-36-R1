@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Bwinf-Aufgabe1-Zimmerbelegung:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Bwinf_Aufgabe1_Zimmerbelegung_jar</output-path>
+    <root id="archive" name="Bwinf-Aufgabe1-Zimmerbelegung.jar">
+      <element id="module-output" name="Bwinf-Aufgabe1-Zimmerbelegung" />
+    </root>
+  </artifact>
+</component>

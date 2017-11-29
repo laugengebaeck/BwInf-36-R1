@@ -1,0 +1,23 @@
+Anna
++ Berta Carolin
+- Marie
+
+Berta
++ Anna
+- Tina
+
+Tina
++ Marie
+- Irene
+
+Marie
++ Tina
+- Berta
+
+Carolin
++ Berta
+- Irene
+
+Irene
++
+-

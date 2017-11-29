@@ -1,0 +1,362 @@
+-----------------------------------------------------------------
+Wort: BUNDESWETTBEWERB
+Wortlänge: 16
+
+Es gibt 28 Möglichkeiten, das Wort mit Autokennzeichen zu schreiben.
+Das Wort kann mit folgenden Kennzeichen geschrieben werden:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+Kennzeichen 1-1
+B - U
+Kennzeichen 2-2
+ND - ES
+Kennzeichen 2-2
+WE - TT
+Kennzeichen 1-1
+B - E
+Kennzeichen 2-2
+WE - RB
+-----------------------------------------------------------------
+Kennzeichen 1-1
+B - U
+Kennzeichen 2-2
+ND - ES
+Kennzeichen 2-2
+WE - TT
+Kennzeichen 1-2
+B - EW
+Kennzeichen 1-2
+E - RB
+-----------------------------------------------------------------
+Kennzeichen 1-1
+B - U
+Kennzeichen 2-2
+ND - ES
+Kennzeichen 2-2
+WE - TT
+Kennzeichen 2-2
+BE - WE
+Kennzeichen 1-1
+R - B
+-----------------------------------------------------------------
+Kennzeichen 1-2
+B - UN
+Kennzeichen 1-2
+D - ES
+Kennzeichen 2-2
+WE - TT
+Kennzeichen 1-1
+B - E
+Kennzeichen 2-2
+WE - RB
+-----------------------------------------------------------------
+Kennzeichen 1-2
+B - UN
+Kennzeichen 1-2
+D - ES
+Kennzeichen 2-2
+WE - TT
+Kennzeichen 1-2
+B - EW
+Kennzeichen 1-2
+E - RB
+-----------------------------------------------------------------
+Kennzeichen 1-2
+B - UN
+Kennzeichen 1-2
+D - ES
+Kennzeichen 2-2
+WE - TT
+Kennzeichen 2-2
+BE - WE
+Kennzeichen 1-1
+R - B
+-----------------------------------------------------------------
+Kennzeichen 1-2
+B - UN
+Kennzeichen 2-2
+DE - SW
+Kennzeichen 1-2
+E - TT
+Kennzeichen 1-1
+B - E
+Kennzeichen 2-2
+WE - RB
+-----------------------------------------------------------------
+Kennzeichen 1-2
+B - UN
+Kennzeichen 2-2
+DE - SW
+Kennzeichen 1-2
+E - TT
+Kennzeichen 1-2
+B - EW
+Kennzeichen 1-2
+E - RB
+-----------------------------------------------------------------
+Kennzeichen 1-2
+B - UN
+Kennzeichen 2-2
+DE - SW
+Kennzeichen 1-2
+E - TT
+Kennzeichen 2-2
+BE - WE
+Kennzeichen 1-1
+R - B
+-----------------------------------------------------------------
+Kennzeichen 1-1
+B - U
+Kennzeichen 1-1
+N - D
+Kennzeichen 1-1
+E - S
+Kennzeichen 2-2
+WE - TT
+Kennzeichen 1-1
+B - E
+Kennzeichen 2-2
+WE - RB
+-----------------------------------------------------------------
+Kennzeichen 1-1
+B - U
+Kennzeichen 1-1
+N - D
+Kennzeichen 1-1
+E - S
+Kennzeichen 2-2
+WE - TT
+Kennzeichen 1-2
+B - EW
+Kennzeichen 1-2
+E - RB
+-----------------------------------------------------------------
+Kennzeichen 1-1
+B - U
+Kennzeichen 1-1
+N - D
+Kennzeichen 1-1
+E - S
+Kennzeichen 2-2
+WE - TT
+Kennzeichen 2-2
+BE - WE
+Kennzeichen 1-1
+R - B
+-----------------------------------------------------------------
+Kennzeichen 1-1
+B - U
+Kennzeichen 1-1
+N - D
+Kennzeichen 1-2
+E - SW
+Kennzeichen 1-2
+E - TT
+Kennzeichen 1-1
+B - E
+Kennzeichen 2-2
+WE - RB
+-----------------------------------------------------------------
+Kennzeichen 1-1
+B - U
+Kennzeichen 1-1
+N - D
+Kennzeichen 1-2
+E - SW
+Kennzeichen 1-2
+E - TT
+Kennzeichen 1-2
+B - EW
+Kennzeichen 1-2
+E - RB
+-----------------------------------------------------------------
+Kennzeichen 1-1
+B - U
+Kennzeichen 1-1
+N - D
+Kennzeichen 1-2
+E - SW
+Kennzeichen 1-2
+E - TT
+Kennzeichen 2-2
+BE - WE
+Kennzeichen 1-1
+R - B
+-----------------------------------------------------------------
+Kennzeichen 1-1
+B - U
+Kennzeichen 1-2
+N - DE
+Kennzeichen 1-1
+S - W
+Kennzeichen 1-2
+E - TT
+Kennzeichen 1-1
+B - E
+Kennzeichen 2-2
+WE - RB
+-----------------------------------------------------------------
+Kennzeichen 1-1
+B - U
+Kennzeichen 1-2
+N - DE
+Kennzeichen 1-1
+S - W
+Kennzeichen 1-2
+E - TT
+Kennzeichen 1-2
+B - EW
+Kennzeichen 1-2
+E - RB
+-----------------------------------------------------------------
+Kennzeichen 1-1
+B - U
+Kennzeichen 1-2
+N - DE
+Kennzeichen 1-1
+S - W
+Kennzeichen 1-2
+E - TT
+Kennzeichen 2-2
+BE - WE
+Kennzeichen 1-1
+R - B
+-----------------------------------------------------------------
+Kennzeichen 1-1
+B - U
+Kennzeichen 2-2
+ND - ES
+Kennzeichen 2-2
+WE - TT
+Kennzeichen 1-1
+B - E
+Kennzeichen 1-1
+W - E
+Kennzeichen 1-1
+R - B
+-----------------------------------------------------------------
+Kennzeichen 1-2
+B - UN
+Kennzeichen 1-1
+D - E
+Kennzeichen 1-1
+S - W
+Kennzeichen 1-2
+E - TT
+Kennzeichen 1-1
+B - E
+Kennzeichen 2-2
+WE - RB
+-----------------------------------------------------------------
+Kennzeichen 1-2
+B - UN
+Kennzeichen 1-1
+D - E
+Kennzeichen 1-1
+S - W
+Kennzeichen 1-2
+E - TT
+Kennzeichen 1-2
+B - EW
+Kennzeichen 1-2
+E - RB
+-----------------------------------------------------------------
+Kennzeichen 1-2
+B - UN
+Kennzeichen 1-1
+D - E
+Kennzeichen 1-1
+S - W
+Kennzeichen 1-2
+E - TT
+Kennzeichen 2-2
+BE - WE
+Kennzeichen 1-1
+R - B
+-----------------------------------------------------------------
+Kennzeichen 1-2
+B - UN
+Kennzeichen 1-2
+D - ES
+Kennzeichen 2-2
+WE - TT
+Kennzeichen 1-1
+B - E
+Kennzeichen 1-1
+W - E
+Kennzeichen 1-1
+R - B
+-----------------------------------------------------------------
+Kennzeichen 1-2
+B - UN
+Kennzeichen 2-2
+DE - SW
+Kennzeichen 1-2
+E - TT
+Kennzeichen 1-1
+B - E
+Kennzeichen 1-1
+W - E
+Kennzeichen 1-1
+R - B
+-----------------------------------------------------------------
+Kennzeichen 1-1
+B - U
+Kennzeichen 1-1
+N - D
+Kennzeichen 1-1
+E - S
+Kennzeichen 2-2
+WE - TT
+Kennzeichen 1-1
+B - E
+Kennzeichen 1-1
+W - E
+Kennzeichen 1-1
+R - B
+-----------------------------------------------------------------
+Kennzeichen 1-1
+B - U
+Kennzeichen 1-1
+N - D
+Kennzeichen 1-2
+E - SW
+Kennzeichen 1-2
+E - TT
+Kennzeichen 1-1
+B - E
+Kennzeichen 1-1
+W - E
+Kennzeichen 1-1
+R - B
+-----------------------------------------------------------------
+Kennzeichen 1-1
+B - U
+Kennzeichen 1-2
+N - DE
+Kennzeichen 1-1
+S - W
+Kennzeichen 1-2
+E - TT
+Kennzeichen 1-1
+B - E
+Kennzeichen 1-1
+W - E
+Kennzeichen 1-1
+R - B
+-----------------------------------------------------------------
+Kennzeichen 1-2
+B - UN
+Kennzeichen 1-1
+D - E
+Kennzeichen 1-1
+S - W
+Kennzeichen 1-2
+E - TT
+Kennzeichen 1-1
+B - E
+Kennzeichen 1-1
+W - E
+Kennzeichen 1-1
+R - B
+-----------------------------------------------------------------

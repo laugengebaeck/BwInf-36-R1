@@ -1,0 +1,10 @@
+Bitte geben Sie die Anzahl der unter 4-Jährigen an: 1
+Bitte geben Sie die Anzahl der über 16-Jährigen an: 1
+Bitte geben Sie die Anzahl der 4 bis 16-Jährigen an: 4
+Bitte geben Sie die Anzahl der Gutscheine an: 1
+Bitte geben Sie 1 für Wochenende und 0 für Wochentag an: 1
+Bitte geben Sie 1 für Ferien und 0 für nicht Ferien an: 1
+
+Es Kostet 10.50 €, wenn man 0 Gruppentickets und 1 Familientickets kauft.
+Dabei werden 0 Gutschein/e für 10% Ermäßigung und 0 Gutscheine zum freien Eintritt verwendet.
+0 Erwachsenentickets und 1 Kindertickets werden zusätzlich gekauft.

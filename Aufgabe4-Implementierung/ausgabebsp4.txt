@@ -1,0 +1,1019 @@
+-----------------------------------------------------------------
+Wort: DONAUDAMPFSCHIFF
+Wortlänge: 16
+
+Es gibt 81 Möglichkeiten, das Wort mit Autokennzeichen zu schreiben.
+Das Wort kann mit folgenden Kennzeichen geschrieben werden:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+Kennzeichen 3-2
+DON - AU
+Kennzeichen 1-2
+D - AM
+Kennzeichen 2-2
+PF - SC
+Kennzeichen 2-2
+HI - FF
+-----------------------------------------------------------------
+Kennzeichen 3-2
+DON - AU
+Kennzeichen 2-2
+DA - MP
+Kennzeichen 1-2
+F - SC
+Kennzeichen 2-2
+HI - FF
+-----------------------------------------------------------------
+Kennzeichen 1-1
+D - O
+Kennzeichen 1-2
+N - AU
+Kennzeichen 1-2
+D - AM
+Kennzeichen 2-2
+PF - SC
+Kennzeichen 2-2
+HI - FF
+-----------------------------------------------------------------
+Kennzeichen 1-1
+D - O
+Kennzeichen 1-2
+N - AU
+Kennzeichen 2-2
+DA - MP
+Kennzeichen 1-2
+F - SC
+Kennzeichen 2-2
+HI - FF
+-----------------------------------------------------------------
+Kennzeichen 1-1
+D - O
+Kennzeichen 3-1
+NAU - D
+Kennzeichen 1-1
+A - M
+Kennzeichen 2-2
+PF - SC
+Kennzeichen 2-2
+HI - FF
+-----------------------------------------------------------------
+Kennzeichen 1-1
+D - O
+Kennzeichen 3-1
+NAU - D
+Kennzeichen 1-2
+A - MP
+Kennzeichen 1-2
+F - SC
+Kennzeichen 2-2
+HI - FF
+-----------------------------------------------------------------
+Kennzeichen 1-1
+D - O
+Kennzeichen 3-1
+NAU - D
+Kennzeichen 2-2
+AM - PF
+Kennzeichen 1-1
+S - C
+Kennzeichen 2-2
+HI - FF
+-----------------------------------------------------------------
+Kennzeichen 1-1
+D - O
+Kennzeichen 3-1
+NAU - D
+Kennzeichen 2-2
+AM - PF
+Kennzeichen 2-2
+SC - HI
+Kennzeichen 1-1
+F - F
+-----------------------------------------------------------------
+Kennzeichen 1-1
+D - O
+Kennzeichen 3-2
+NAU - DA
+Kennzeichen 1-1
+M - P
+Kennzeichen 1-2
+F - SC
+Kennzeichen 2-2
+HI - FF
+-----------------------------------------------------------------
+Kennzeichen 1-1
+D - O
+Kennzeichen 3-2
+NAU - DA
+Kennzeichen 1-2
+M - PF
+Kennzeichen 1-1
+S - C
+Kennzeichen 2-2
+HI - FF
+-----------------------------------------------------------------
+Kennzeichen 1-1
+D - O
+Kennzeichen 3-2
+NAU - DA
+Kennzeichen 1-2
+M - PF
+Kennzeichen 2-2
+SC - HI
+Kennzeichen 1-1
+F - F
+-----------------------------------------------------------------
+Kennzeichen 1-2
+D - ON
+Kennzeichen 1-1
+A - U
+Kennzeichen 1-2
+D - AM
+Kennzeichen 2-2
+PF - SC
+Kennzeichen 2-2
+HI - FF
+-----------------------------------------------------------------
+Kennzeichen 1-2
+D - ON
+Kennzeichen 1-1
+A - U
+Kennzeichen 2-2
+DA - MP
+Kennzeichen 1-2
+F - SC
+Kennzeichen 2-2
+HI - FF
+-----------------------------------------------------------------
+Kennzeichen 1-2
+D - ON
+Kennzeichen 1-2
+A - UD
+Kennzeichen 1-1
+A - M
+Kennzeichen 2-2
+PF - SC
+Kennzeichen 2-2
+HI - FF
+-----------------------------------------------------------------
+Kennzeichen 1-2
+D - ON
+Kennzeichen 1-2
+A - UD
+Kennzeichen 1-2
+A - MP
+Kennzeichen 1-2
+F - SC
+Kennzeichen 2-2
+HI - FF
+-----------------------------------------------------------------
+Kennzeichen 1-2
+D - ON
+Kennzeichen 1-2
+A - UD
+Kennzeichen 2-2
+AM - PF
+Kennzeichen 1-1
+S - C
+Kennzeichen 2-2
+HI - FF
+-----------------------------------------------------------------
+Kennzeichen 1-2
+D - ON
+Kennzeichen 1-2
+A - UD
+Kennzeichen 2-2
+AM - PF
+Kennzeichen 2-2
+SC - HI
+Kennzeichen 1-1
+F - F
+-----------------------------------------------------------------
+Kennzeichen 1-2
+D - ON
+Kennzeichen 2-2
+AU - DA
+Kennzeichen 1-1
+M - P
+Kennzeichen 1-2
+F - SC
+Kennzeichen 2-2
+HI - FF
+-----------------------------------------------------------------
+Kennzeichen 1-2
+D - ON
+Kennzeichen 2-2
+AU - DA
+Kennzeichen 1-2
+M - PF
+Kennzeichen 1-1
+S - C
+Kennzeichen 2-2
+HI - FF
+-----------------------------------------------------------------
+Kennzeichen 1-2
+D - ON
+Kennzeichen 2-2
+AU - DA
+Kennzeichen 1-2
+M - PF
+Kennzeichen 2-2
+SC - HI
+Kennzeichen 1-1
+F - F
+-----------------------------------------------------------------
+Kennzeichen 3-2
+DON - AU
+Kennzeichen 1-1
+D - A
+Kennzeichen 1-1
+M - P
+Kennzeichen 1-2
+F - SC
+Kennzeichen 2-2
+HI - FF
+-----------------------------------------------------------------
+Kennzeichen 3-2
+DON - AU
+Kennzeichen 1-1
+D - A
+Kennzeichen 1-2
+M - PF
+Kennzeichen 1-1
+S - C
+Kennzeichen 2-2
+HI - FF
+-----------------------------------------------------------------
+Kennzeichen 3-2
+DON - AU
+Kennzeichen 1-1
+D - A
+Kennzeichen 1-2
+M - PF
+Kennzeichen 2-2
+SC - HI
+Kennzeichen 1-1
+F - F
+-----------------------------------------------------------------
+Kennzeichen 3-2
+DON - AU
+Kennzeichen 1-2
+D - AM
+Kennzeichen 1-1
+P - F
+Kennzeichen 1-1
+S - C
+Kennzeichen 2-2
+HI - FF
+-----------------------------------------------------------------
+Kennzeichen 3-2
+DON - AU
+Kennzeichen 1-2
+D - AM
+Kennzeichen 1-1
+P - F
+Kennzeichen 2-2
+SC - HI
+Kennzeichen 1-1
+F - F
+-----------------------------------------------------------------
+Kennzeichen 3-2
+DON - AU
+Kennzeichen 1-2
+D - AM
+Kennzeichen 1-2
+P - FS
+Kennzeichen 1-2
+C - HI
+Kennzeichen 1-1
+F - F
+-----------------------------------------------------------------
+Kennzeichen 3-2
+DON - AU
+Kennzeichen 1-2
+D - AM
+Kennzeichen 2-2
+PF - SC
+Kennzeichen 1-1
+H - I
+Kennzeichen 1-1
+F - F
+-----------------------------------------------------------------
+Kennzeichen 3-2
+DON - AU
+Kennzeichen 2-2
+DA - MP
+Kennzeichen 1-1
+F - S
+Kennzeichen 1-2
+C - HI
+Kennzeichen 1-1
+F - F
+-----------------------------------------------------------------
+Kennzeichen 3-2
+DON - AU
+Kennzeichen 2-2
+DA - MP
+Kennzeichen 1-2
+F - SC
+Kennzeichen 1-1
+H - I
+Kennzeichen 1-1
+F - F
+-----------------------------------------------------------------
+Kennzeichen 1-1
+D - O
+Kennzeichen 1-2
+N - AU
+Kennzeichen 1-1
+D - A
+Kennzeichen 1-1
+M - P
+Kennzeichen 1-2
+F - SC
+Kennzeichen 2-2
+HI - FF
+-----------------------------------------------------------------
+Kennzeichen 1-1
+D - O
+Kennzeichen 1-2
+N - AU
+Kennzeichen 1-1
+D - A
+Kennzeichen 1-2
+M - PF
+Kennzeichen 1-1
+S - C
+Kennzeichen 2-2
+HI - FF
+-----------------------------------------------------------------
+Kennzeichen 1-1
+D - O
+Kennzeichen 1-2
+N - AU
+Kennzeichen 1-1
+D - A
+Kennzeichen 1-2
+M - PF
+Kennzeichen 2-2
+SC - HI
+Kennzeichen 1-1
+F - F
+-----------------------------------------------------------------
+Kennzeichen 1-1
+D - O
+Kennzeichen 1-2
+N - AU
+Kennzeichen 1-2
+D - AM
+Kennzeichen 1-1
+P - F
+Kennzeichen 1-1
+S - C
+Kennzeichen 2-2
+HI - FF
+-----------------------------------------------------------------
+Kennzeichen 1-1
+D - O
+Kennzeichen 1-2
+N - AU
+Kennzeichen 1-2
+D - AM
+Kennzeichen 1-1
+P - F
+Kennzeichen 2-2
+SC - HI
+Kennzeichen 1-1
+F - F
+-----------------------------------------------------------------
+Kennzeichen 1-1
+D - O
+Kennzeichen 1-2
+N - AU
+Kennzeichen 1-2
+D - AM
+Kennzeichen 1-2
+P - FS
+Kennzeichen 1-2
+C - HI
+Kennzeichen 1-1
+F - F
+-----------------------------------------------------------------
+Kennzeichen 1-1
+D - O
+Kennzeichen 1-2
+N - AU
+Kennzeichen 1-2
+D - AM
+Kennzeichen 2-2
+PF - SC
+Kennzeichen 1-1
+H - I
+Kennzeichen 1-1
+F - F
+-----------------------------------------------------------------
+Kennzeichen 1-1
+D - O
+Kennzeichen 1-2
+N - AU
+Kennzeichen 2-2
+DA - MP
+Kennzeichen 1-1
+F - S
+Kennzeichen 1-2
+C - HI
+Kennzeichen 1-1
+F - F
+-----------------------------------------------------------------
+Kennzeichen 1-1
+D - O
+Kennzeichen 1-2
+N - AU
+Kennzeichen 2-2
+DA - MP
+Kennzeichen 1-2
+F - SC
+Kennzeichen 1-1
+H - I
+Kennzeichen 1-1
+F - F
+-----------------------------------------------------------------
+Kennzeichen 1-1
+D - O
+Kennzeichen 3-1
+NAU - D
+Kennzeichen 1-1
+A - M
+Kennzeichen 1-1
+P - F
+Kennzeichen 1-1
+S - C
+Kennzeichen 2-2
+HI - FF
+-----------------------------------------------------------------
+Kennzeichen 1-1
+D - O
+Kennzeichen 3-1
+NAU - D
+Kennzeichen 1-1
+A - M
+Kennzeichen 1-1
+P - F
+Kennzeichen 2-2
+SC - HI
+Kennzeichen 1-1
+F - F
+-----------------------------------------------------------------
+Kennzeichen 1-1
+D - O
+Kennzeichen 3-1
+NAU - D
+Kennzeichen 1-1
+A - M
+Kennzeichen 1-2
+P - FS
+Kennzeichen 1-2
+C - HI
+Kennzeichen 1-1
+F - F
+-----------------------------------------------------------------
+Kennzeichen 1-1
+D - O
+Kennzeichen 3-1
+NAU - D
+Kennzeichen 1-1
+A - M
+Kennzeichen 2-2
+PF - SC
+Kennzeichen 1-1
+H - I
+Kennzeichen 1-1
+F - F
+-----------------------------------------------------------------
+Kennzeichen 1-1
+D - O
+Kennzeichen 3-1
+NAU - D
+Kennzeichen 1-2
+A - MP
+Kennzeichen 1-1
+F - S
+Kennzeichen 1-2
+C - HI
+Kennzeichen 1-1
+F - F
+-----------------------------------------------------------------
+Kennzeichen 1-1
+D - O
+Kennzeichen 3-1
+NAU - D
+Kennzeichen 1-2
+A - MP
+Kennzeichen 1-2
+F - SC
+Kennzeichen 1-1
+H - I
+Kennzeichen 1-1
+F - F
+-----------------------------------------------------------------
+Kennzeichen 1-1
+D - O
+Kennzeichen 3-1
+NAU - D
+Kennzeichen 2-2
+AM - PF
+Kennzeichen 1-1
+S - C
+Kennzeichen 1-1
+H - I
+Kennzeichen 1-1
+F - F
+-----------------------------------------------------------------
+Kennzeichen 1-1
+D - O
+Kennzeichen 3-2
+NAU - DA
+Kennzeichen 1-1
+M - P
+Kennzeichen 1-1
+F - S
+Kennzeichen 1-2
+C - HI
+Kennzeichen 1-1
+F - F
+-----------------------------------------------------------------
+Kennzeichen 1-1
+D - O
+Kennzeichen 3-2
+NAU - DA
+Kennzeichen 1-1
+M - P
+Kennzeichen 1-2
+F - SC
+Kennzeichen 1-1
+H - I
+Kennzeichen 1-1
+F - F
+-----------------------------------------------------------------
+Kennzeichen 1-1
+D - O
+Kennzeichen 3-2
+NAU - DA
+Kennzeichen 1-2
+M - PF
+Kennzeichen 1-1
+S - C
+Kennzeichen 1-1
+H - I
+Kennzeichen 1-1
+F - F
+-----------------------------------------------------------------
+Kennzeichen 1-2
+D - ON
+Kennzeichen 1-1
+A - U
+Kennzeichen 1-1
+D - A
+Kennzeichen 1-1
+M - P
+Kennzeichen 1-2
+F - SC
+Kennzeichen 2-2
+HI - FF
+-----------------------------------------------------------------
+Kennzeichen 1-2
+D - ON
+Kennzeichen 1-1
+A - U
+Kennzeichen 1-1
+D - A
+Kennzeichen 1-2
+M - PF
+Kennzeichen 1-1
+S - C
+Kennzeichen 2-2
+HI - FF
+-----------------------------------------------------------------
+Kennzeichen 1-2
+D - ON
+Kennzeichen 1-1
+A - U
+Kennzeichen 1-1
+D - A
+Kennzeichen 1-2
+M - PF
+Kennzeichen 2-2
+SC - HI
+Kennzeichen 1-1
+F - F
+-----------------------------------------------------------------
+Kennzeichen 1-2
+D - ON
+Kennzeichen 1-1
+A - U
+Kennzeichen 1-2
+D - AM
+Kennzeichen 1-1
+P - F
+Kennzeichen 1-1
+S - C
+Kennzeichen 2-2
+HI - FF
+-----------------------------------------------------------------
+Kennzeichen 1-2
+D - ON
+Kennzeichen 1-1
+A - U
+Kennzeichen 1-2
+D - AM
+Kennzeichen 1-1
+P - F
+Kennzeichen 2-2
+SC - HI
+Kennzeichen 1-1
+F - F
+-----------------------------------------------------------------
+Kennzeichen 1-2
+D - ON
+Kennzeichen 1-1
+A - U
+Kennzeichen 1-2
+D - AM
+Kennzeichen 1-2
+P - FS
+Kennzeichen 1-2
+C - HI
+Kennzeichen 1-1
+F - F
+-----------------------------------------------------------------
+Kennzeichen 1-2
+D - ON
+Kennzeichen 1-1
+A - U
+Kennzeichen 1-2
+D - AM
+Kennzeichen 2-2
+PF - SC
+Kennzeichen 1-1
+H - I
+Kennzeichen 1-1
+F - F
+-----------------------------------------------------------------
+Kennzeichen 1-2
+D - ON
+Kennzeichen 1-1
+A - U
+Kennzeichen 2-2
+DA - MP
+Kennzeichen 1-1
+F - S
+Kennzeichen 1-2
+C - HI
+Kennzeichen 1-1
+F - F
+-----------------------------------------------------------------
+Kennzeichen 1-2
+D - ON
+Kennzeichen 1-1
+A - U
+Kennzeichen 2-2
+DA - MP
+Kennzeichen 1-2
+F - SC
+Kennzeichen 1-1
+H - I
+Kennzeichen 1-1
+F - F
+-----------------------------------------------------------------
+Kennzeichen 1-2
+D - ON
+Kennzeichen 1-2
+A - UD
+Kennzeichen 1-1
+A - M
+Kennzeichen 1-1
+P - F
+Kennzeichen 1-1
+S - C
+Kennzeichen 2-2
+HI - FF
+-----------------------------------------------------------------
+Kennzeichen 1-2
+D - ON
+Kennzeichen 1-2
+A - UD
+Kennzeichen 1-1
+A - M
+Kennzeichen 1-1
+P - F
+Kennzeichen 2-2
+SC - HI
+Kennzeichen 1-1
+F - F
+-----------------------------------------------------------------
+Kennzeichen 1-2
+D - ON
+Kennzeichen 1-2
+A - UD
+Kennzeichen 1-1
+A - M
+Kennzeichen 1-2
+P - FS
+Kennzeichen 1-2
+C - HI
+Kennzeichen 1-1
+F - F
+-----------------------------------------------------------------
+Kennzeichen 1-2
+D - ON
+Kennzeichen 1-2
+A - UD
+Kennzeichen 1-1
+A - M
+Kennzeichen 2-2
+PF - SC
+Kennzeichen 1-1
+H - I
+Kennzeichen 1-1
+F - F
+-----------------------------------------------------------------
+Kennzeichen 1-2
+D - ON
+Kennzeichen 1-2
+A - UD
+Kennzeichen 1-2
+A - MP
+Kennzeichen 1-1
+F - S
+Kennzeichen 1-2
+C - HI
+Kennzeichen 1-1
+F - F
+-----------------------------------------------------------------
+Kennzeichen 1-2
+D - ON
+Kennzeichen 1-2
+A - UD
+Kennzeichen 1-2
+A - MP
+Kennzeichen 1-2
+F - SC
+Kennzeichen 1-1
+H - I
+Kennzeichen 1-1
+F - F
+-----------------------------------------------------------------
+Kennzeichen 1-2
+D - ON
+Kennzeichen 1-2
+A - UD
+Kennzeichen 2-2
+AM - PF
+Kennzeichen 1-1
+S - C
+Kennzeichen 1-1
+H - I
+Kennzeichen 1-1
+F - F
+-----------------------------------------------------------------
+Kennzeichen 1-2
+D - ON
+Kennzeichen 2-2
+AU - DA
+Kennzeichen 1-1
+M - P
+Kennzeichen 1-1
+F - S
+Kennzeichen 1-2
+C - HI
+Kennzeichen 1-1
+F - F
+-----------------------------------------------------------------
+Kennzeichen 1-2
+D - ON
+Kennzeichen 2-2
+AU - DA
+Kennzeichen 1-1
+M - P
+Kennzeichen 1-2
+F - SC
+Kennzeichen 1-1
+H - I
+Kennzeichen 1-1
+F - F
+-----------------------------------------------------------------
+Kennzeichen 1-2
+D - ON
+Kennzeichen 2-2
+AU - DA
+Kennzeichen 1-2
+M - PF
+Kennzeichen 1-1
+S - C
+Kennzeichen 1-1
+H - I
+Kennzeichen 1-1
+F - F
+-----------------------------------------------------------------
+Kennzeichen 3-2
+DON - AU
+Kennzeichen 1-1
+D - A
+Kennzeichen 1-1
+M - P
+Kennzeichen 1-1
+F - S
+Kennzeichen 1-2
+C - HI
+Kennzeichen 1-1
+F - F
+-----------------------------------------------------------------
+Kennzeichen 3-2
+DON - AU
+Kennzeichen 1-1
+D - A
+Kennzeichen 1-1
+M - P
+Kennzeichen 1-2
+F - SC
+Kennzeichen 1-1
+H - I
+Kennzeichen 1-1
+F - F
+-----------------------------------------------------------------
+Kennzeichen 3-2
+DON - AU
+Kennzeichen 1-1
+D - A
+Kennzeichen 1-2
+M - PF
+Kennzeichen 1-1
+S - C
+Kennzeichen 1-1
+H - I
+Kennzeichen 1-1
+F - F
+-----------------------------------------------------------------
+Kennzeichen 3-2
+DON - AU
+Kennzeichen 1-2
+D - AM
+Kennzeichen 1-1
+P - F
+Kennzeichen 1-1
+S - C
+Kennzeichen 1-1
+H - I
+Kennzeichen 1-1
+F - F
+-----------------------------------------------------------------
+Kennzeichen 1-1
+D - O
+Kennzeichen 1-2
+N - AU
+Kennzeichen 1-1
+D - A
+Kennzeichen 1-1
+M - P
+Kennzeichen 1-1
+F - S
+Kennzeichen 1-2
+C - HI
+Kennzeichen 1-1
+F - F
+-----------------------------------------------------------------
+Kennzeichen 1-1
+D - O
+Kennzeichen 1-2
+N - AU
+Kennzeichen 1-1
+D - A
+Kennzeichen 1-1
+M - P
+Kennzeichen 1-2
+F - SC
+Kennzeichen 1-1
+H - I
+Kennzeichen 1-1
+F - F
+-----------------------------------------------------------------
+Kennzeichen 1-1
+D - O
+Kennzeichen 1-2
+N - AU
+Kennzeichen 1-1
+D - A
+Kennzeichen 1-2
+M - PF
+Kennzeichen 1-1
+S - C
+Kennzeichen 1-1
+H - I
+Kennzeichen 1-1
+F - F
+-----------------------------------------------------------------
+Kennzeichen 1-1
+D - O
+Kennzeichen 1-2
+N - AU
+Kennzeichen 1-2
+D - AM
+Kennzeichen 1-1
+P - F
+Kennzeichen 1-1
+S - C
+Kennzeichen 1-1
+H - I
+Kennzeichen 1-1
+F - F
+-----------------------------------------------------------------
+Kennzeichen 1-1
+D - O
+Kennzeichen 3-1
+NAU - D
+Kennzeichen 1-1
+A - M
+Kennzeichen 1-1
+P - F
+Kennzeichen 1-1
+S - C
+Kennzeichen 1-1
+H - I
+Kennzeichen 1-1
+F - F
+-----------------------------------------------------------------
+Kennzeichen 1-2
+D - ON
+Kennzeichen 1-1
+A - U
+Kennzeichen 1-1
+D - A
+Kennzeichen 1-1
+M - P
+Kennzeichen 1-1
+F - S
+Kennzeichen 1-2
+C - HI
+Kennzeichen 1-1
+F - F
+-----------------------------------------------------------------
+Kennzeichen 1-2
+D - ON
+Kennzeichen 1-1
+A - U
+Kennzeichen 1-1
+D - A
+Kennzeichen 1-1
+M - P
+Kennzeichen 1-2
+F - SC
+Kennzeichen 1-1
+H - I
+Kennzeichen 1-1
+F - F
+-----------------------------------------------------------------
+Kennzeichen 1-2
+D - ON
+Kennzeichen 1-1
+A - U
+Kennzeichen 1-1
+D - A
+Kennzeichen 1-2
+M - PF
+Kennzeichen 1-1
+S - C
+Kennzeichen 1-1
+H - I
+Kennzeichen 1-1
+F - F
+-----------------------------------------------------------------
+Kennzeichen 1-2
+D - ON
+Kennzeichen 1-1
+A - U
+Kennzeichen 1-2
+D - AM
+Kennzeichen 1-1
+P - F
+Kennzeichen 1-1
+S - C
+Kennzeichen 1-1
+H - I
+Kennzeichen 1-1
+F - F
+-----------------------------------------------------------------
+Kennzeichen 1-2
+D - ON
+Kennzeichen 1-2
+A - UD
+Kennzeichen 1-1
+A - M
+Kennzeichen 1-1
+P - F
+Kennzeichen 1-1
+S - C
+Kennzeichen 1-1
+H - I
+Kennzeichen 1-1
+F - F
+-----------------------------------------------------------------

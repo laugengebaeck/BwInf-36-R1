@@ -1,0 +1,15 @@
+-----------------------------------------------------------------
+Wort: INFORMATIK
+Wortlänge: 10
+
+Es gibt 1 Möglichkeit, das Wort mit Autokennzeichen zu schreiben.
+Das Wort kann mit folgenden Kennzeichen geschrieben werden:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+Kennzeichen 2-2
+IN - FO
+Kennzeichen 1-1
+R - M
+Kennzeichen 2-2
+AT - IK
+-----------------------------------------------------------------
